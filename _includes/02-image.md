@@ -1,1 +1,1 @@
-https://repository-images.githubusercontent.com/138594823/a91ab200-586d-11ea-971b-49617147d94e
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
